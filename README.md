@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm haruki</h1>
-<h3 align="center">A iOS developer from japan</h3>
+<h3 align="center">An iOS developer from japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haruki-mochida&label=Profile%20views&color=0e75b6&style=flat" alt="haruki-mochida" /> </p>
 
